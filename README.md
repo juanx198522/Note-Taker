@@ -34,5 +34,4 @@ N/A
 ## URL of the functional deployed application
 [https://note-taker-11-a2cc57ffa002.herokuapp.com/](https://note-taker-11-a2cc57ffa002.herokuapp.com/)
 
-
 ---
